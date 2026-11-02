@@ -320,6 +320,7 @@ I'm excited to bring my higher education and Slate experience to ReWorkflow whil
         id: 14,
         name: "Valerie Banks",
         picture: '/img/team/valerie-banks.jpg',
+        cert: getCloudImageUrl('slate_certified_jjh5ms'),
         title: "Slate Developer I",
         contact: [
             {
