@@ -15,8 +15,8 @@
           <!--            </div>-->
           <!--            <div class="block md:hidden w-[120px]">-->
           <!--              <img-->
-          <!--                  src="https://reworkflow.com/static/slate_gold.png"-->
-          <!--                  alt="Slate Gold Partner">-->
+          <!--                  src="/img/preferred-partner-platinum-badge.webp"-->
+          <!--                  alt="Slate Platinum Preferred Partner">-->
           <!--            </div>-->
           <!--          </div>-->
 
@@ -50,8 +50,8 @@
 
           <!--          <div class="invisible md:visible w-[120px]">-->
           <!--            <img-->
-          <!--                src="https://reworkflow.com/static/slate_gold.png"-->
-          <!--                alt="Slate Gold Partner">-->
+          <!--                src="/img/preferred-partner-platinum-badge.webp"-->
+          <!--                alt="Slate Platinum Preferred Partner">-->
           <!--          </div>-->
         </div>
       </div>

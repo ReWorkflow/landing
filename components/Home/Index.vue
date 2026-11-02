@@ -22,8 +22,8 @@ import { getCloudImageUrl } from '~/stores'
             >
               <div class="w-[80px] lg:w-[120px] flex-shrink-0 ">
                 <img
-                    :src="getCloudImageUrl('slate_gold_ut0sou')"
-                    alt="Slate Gold Partner"
+                    src="/img/preferred-partner-platinum-badge.webp"
+                    alt="Slate Platinum Preferred Partner"
                     class="w-full h-auto object-contain"
                 >
               </div>
