@@ -68,7 +68,7 @@ const partners = [
     url: 'https://www.getfasolutions.com/'
   },
   {
-    logo: 'https://static.wixstatic.com/media/7cb5bc_9f00498cca45490c9a1f6697f2074d8b~mv2.png',
+    logo: '/img/jmps-logo.svg',
     content: 'Interim Leadership, Executive Coaching, Strategic Consulting',
     url: 'https://www.jmpartnersolutions.com/'
   },
