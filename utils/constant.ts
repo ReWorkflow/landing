@@ -207,7 +207,7 @@ My role focuses a great deal on efficiencies and enhancements, and I couldn't do
 
     {
         name: 'JM Partner Solutions',
-        logo: 'https://static.wixstatic.com/media/7cb5bc_9f00498cca45490c9a1f6697f2074d8b~mv2.png',
+        logo: '/img/jmps-logo.svg',
         testimonial: {
             quote: `We have recommended a lot of clients to ReWorkflow because they do great work and exceed our clients’ expectations, every time. The team is smart. They understand the system. And they\'re able to get in and either create the reports, write the trigger, or fix the issue with the system to get it so that it\'s functioning, and the campus isn\'t having to do manual workarounds. ReWorkflow has been very good at focusing on what the client needs are, and the team does what they say they will.`,
             person: 'Jessica Mireles',
