@@ -1,2 +1,4 @@
 ErrorDocument 403 /404.html
 ErrorDocument 404 /404.html
+RedirectMatch 301 ^/slate-partners/?$ /?utm_source=technolutions&utm_medium=pp-directory
+RedirectMatch 301 ^/slate-implementation/?$ /?utm_source=technolutions&utm_medium=website&utm_content=implementation
