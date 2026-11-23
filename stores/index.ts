@@ -189,7 +189,7 @@ When I'm not working, you'll most likely find me at the gym (either working out 
         name: "Joyce Carter",
         order: 1,
         picture: getCloudImageUrl('jcarter_dgru7z'),
-        title: "Slate Developer II",
+        title: "Slate Strategist",
         contact: [
             {
                 type: CONTACT_TYPE.LINKEDIN,
